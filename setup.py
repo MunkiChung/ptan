@@ -3,6 +3,8 @@ PTAN stands for PyTorch AgentNet -- reimplementation of AgentNet library for pyt
 """
 import setuptools
 
+requirements = []
+
 setuptools.setup(
     name="ptan",
     author="Max Lapan",
